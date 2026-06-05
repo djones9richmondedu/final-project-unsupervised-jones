@@ -35,7 +35,7 @@ Figure 2 displays four maps with global population and total power plant capacit
 
 <div style="display: flex; align-items: flex-start; gap: 16px;">
   <!-- Left Side: Image Container -->
-  <div style=" width: 1800px;">
+  <div style=" width: 1000px;">
     <img src="imgs/final_project_clusters_11.png">
   </div>
   
